@@ -1,0 +1,33 @@
+.alb {
+    width: 30px;
+  }
+
+  .alb:hover {
+    transform: scale(1.5);
+    box-shadow: 0 0 10px #ffe4c4;
+  }
+
+  .phone {
+    position: absolute;
+    top: 2px;
+    right: 300px;
+
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  #phone {
+    width: 45px;
+  }
+
+  #call {
+    background-color: #ffe4c450;
+  }
+/* .fluid{
+  position: fixed;
+  background-color: white;
+  z-index: 10;
+  top: 0;
+} */

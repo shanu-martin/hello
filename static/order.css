@@ -1,0 +1,28 @@
+.week{
+    
+    justify-content: center;
+    display: flex;
+  
+
+}
+hr{
+    color: rgb(226, 109, 70);
+    height: 3px;
+}
+h4{
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}
+#mirr{
+    transform: scale(-1);
+}
+img{
+    width: 27%;
+}
+img:hover,img:focus{
+    width: 33%;
+}
+p{
+    margin: 3%;
+}

@@ -1,0 +1,18 @@
+#cat{
+    width: 15%;
+    border-radius: 56%;
+}
+p{
+margin-left: 3%;
+}
+a{
+text-decoration: none;
+color: black;
+}
+.btn:hover {
+
+background-color:  #e48d248b;}
+
+#nbpic{
+width: 8%;
+}
